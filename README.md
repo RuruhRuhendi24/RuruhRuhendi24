@@ -53,7 +53,13 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
-
+<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
+<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
+<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+</p>
 
 
  
