@@ -31,9 +31,6 @@ Keterangan :
 
 Dijelaskan dalam Al-Qr'an bahwa ayat ini adalah doa Nabi Sulaiman kepada Allah SWT agar mendapatkan ilham untuk mensyukuri nikmat serta dimasukkan ke dalam golongan orang-orang yang beramal shalih di dunia hingga kemudian mendapatkan kebahagiaan di dunia dan akhirat.
 
-
-In the GitHub file editor, replace the README.md file content with the following code:
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
