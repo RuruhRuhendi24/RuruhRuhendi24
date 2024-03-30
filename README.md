@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Selamat Datang Di Halaman Saya">
-</p>
 
 <!--
 How to make this gif ?
