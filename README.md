@@ -53,9 +53,7 @@ Lifelong Learner, currently working as budagh kompeni.
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/petoalam33/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-<a href="https://https://www.tiktok.com/@petoalam77?_t=8l6fbc9y2UM&_r=1/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
