@@ -50,44 +50,7 @@ Lifelong Learner, currently working as budagh kompeni.
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/petoalam33/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-
-
-Computing
-Developer Tools
-How to Create an Impressive GitHub Profile README
-Nida Khan
-Nida Khan
-January 26, 2022
-How to Create an Impressive GitHub Profile README
-Career Advancement
-Computing
-Developer Tools
-Entrepreneur
-Share this article
-
-
-
-
-
-
-How to Create an Impressive GitHub Profile
-
-Table of Contents
-What a GitHub Profile README Actually Is
-Creating a GitHub Profile README
-Adding GIFs and Badges to Your GitHub Profile README
-Adding a Banner GIF and About Me Section
-Adding Languages and Tools
-Adding GitHub Stats
-Adding Recent Blogs to Your GitHub Profile README
-Conclusion
-FAQs About GitHub Readme
-If you visit my profile on GitHub, you’ll notice that it contains images, social network links, some GitHub statistics and links to my blogs, which makes the GitHub profile stand out. This is possible through the GitHub profile README feature. In this article, we’ll learn how to create a GitHub profile README.
-
-We’ll cover the following:
+### <summary><strong>Let's connect!</strong></
 
 what a GitHub profile README is
 how to create a GitHub profile README
