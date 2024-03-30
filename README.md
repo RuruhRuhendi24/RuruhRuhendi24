@@ -27,7 +27,7 @@ Keterangan :
 
 Dijelaskan dalam Al-Qr'an bahwa ayat ini adalah doa Nabi Sulaiman kepada Allah SWT agar mendapatkan ilham untuk mensyukuri nikmat serta dimasukkan ke dalam golongan orang-orang yang beramal shalih di dunia hingga kemudian mendapatkan kebahagiaan di dunia dan akhirat.
 
-# Contact Me :
+# Kritik dan saran silahkan kirim ke Email Dibawah:
 
 <p>
  </br>
