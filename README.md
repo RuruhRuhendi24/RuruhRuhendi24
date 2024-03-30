@@ -65,5 +65,5 @@ Lifelong Learner, currently working as budagh kompeni.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
 </p>
 
-https://www.tiktok.com/@petoalam77?_t=8l6fIlHXZcV&_r=1
+</>https://www.tiktok.com/@petoalam77?_t=8l6fIlHXZcV&_r=1</>
  
