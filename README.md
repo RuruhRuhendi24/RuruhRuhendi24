@@ -66,3 +66,15 @@ Lifelong Learner, currently working as budagh kompeni.
 </p>
 
 
+on: [push]<font></font>
+<font></font>
+jobs:<font></font>
+  build:<font></font>
+  name: Hello world<font></font>
+  runs-on: ubuntu-latest<font></font>
+  steps:<font></font>
+  - uses: actions/checkout@v2<font></font>
+  - name: Write a multi-line message<font></font>
+    run: |<font></font>
+      echo This demo file shows a <font></font>
+      echo very basic and easy-to-understand workflow.
