@@ -31,7 +31,7 @@ Keterangan :
 
 Dijelaskan dalam Al-Qr'an bahwa ayat ini adalah doa Nabi Sulaiman kepada Allah SWT agar mendapatkan ilham untuk mensyukuri nikmat serta dimasukkan ke dalam golongan orang-orang yang beramal shalih di dunia hingga kemudian mendapatkan kebahagiaan di dunia dan akhirat.
 
-# <summary><strong>Seeyou next time:wave: , Terimakasih Sudah Berkunjung</summary>
+# <summary><strong>Seeyou next time Terimakasih Sudah Berkunjung</summary>
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
