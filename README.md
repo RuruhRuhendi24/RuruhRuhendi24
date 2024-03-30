@@ -45,7 +45,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto: ruruhruhendi@gmail.com">Email me!</a>  </br>
+    - :mailbox: Kritik dan saran silahkan kirim ke: <a href="mailto: ruruhruhendi@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
